@@ -1,46 +1,42 @@
-Contribution: 2021-01-29 20:00
+# Tiny Block 🚀
 
-Contribution: 2021-02-01 20:00
+![Banner](tiny_block.gif)
 
-Contribution: 2021-02-01 20:01
+An open-source minimalist, my juicy fast-paced match-3 game.
 
-Contribution: 2021-02-03 20:00
+## What is Tiny Block
 
-Contribution: 2021-02-03 20:01
+Tiny Block is a playable Unity project containing the core gameplay of Flipon. Most of the source code is a direct copy of what is in the complete game.
 
-Contribution: 2021-02-04 20:00
+- ✅ Core logic: Grid of blocks, move horizontally, combo, chain
+- ✅ Unity project
+- ✅ Objectives 
+- ✅ Local multiplayer logic
+- ✅ "AI" 
+- ✅ Touch controls
+- ✅ Dynamic UI and screen split
+- ✅ Unit tests for gameplay
 
-Contribution: 2021-02-04 20:01
+What is not included?
 
-Contribution: 2021-02-04 20:02
+- ❌ Assets (no sprites, no backgrounds, no sounds, no FXs) - no copyrighted files!
+- ❌ Third-party premium plugins (Odin Inspector, InControl, etc)
+- ❌ Audio
+- ❌ Gamepad support 
+- ❌ Menus, UI
+- ❌ Dialog system
+- ❌ i18n and texts
+- ❌ Custom editor tools
+- ❌ Console and mobile ports
 
-Contribution: 2021-02-05 20:00
+## How to run
 
-Contribution: 2021-02-09 20:00
+Open the project in [Unity](unity3d.com/) (2019.4.0f18).
 
-Contribution: 2021-02-10 20:00
+Open the `Game` scene.
 
-Contribution: 2021-02-10 20:01
+Play. It should run.
 
-Contribution: 2021-02-10 20:02
+Now you can tweak the `GAME SETTINGS` GameObject to change players, objectives, grid size, speed, etc.
 
-Contribution: 2021-02-10 20:03
-
-Contribution: 2021-02-12 20:00
-
-Contribution: 2021-02-12 20:01
-
-Contribution: 2021-02-12 20:02
-
-Contribution: 2021-02-12 20:03
-
-Contribution: 2021-02-12 20:04
-
-Contribution: 2021-02-15 20:00
-
-Contribution: 2021-02-16 20:00
-
-Contribution: 2021-02-16 20:01
-
-Contribution: 2021-02-16 20:02
-
+![Game Settinngs GameObject](settings.png)
