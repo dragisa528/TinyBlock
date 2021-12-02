@@ -1,7 +1,5 @@
 # Tiny Block 🚀
 
-![Banner](tiny_block.gif)
-
 An open-source minimalist, my juicy fast-paced match-3 game.
 
 ## What is Tiny Block
